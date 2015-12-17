@@ -11,7 +11,7 @@ The project mainly impletes the algorithm introduced by:
 
 and also use a library(yael) from their project, all rights own to them.
 
-dependences:
+dependencies:
 -----------
 1.opencv
 
