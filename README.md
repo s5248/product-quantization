@@ -11,11 +11,20 @@ The project mainly impletes the algorithm introduced by:
 
 and also use a library(yael) from their project, all rights own to them.
 
+dependences:
+-----------
+1.opencv
+
+2.yael
+
+3.Linux platform and so on.
 
 ******************************************************************************************************
 
 Commands:
+--------
 2012年 11月 08日 星期四 16:54:46 CST
+
 1.提取特征
   使用命令:extracter picture_dir feature_dir
   其中picture_dir是图片存放的文件夹，默认该文件夹只存在图片文件，
