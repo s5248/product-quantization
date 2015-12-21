@@ -75,4 +75,6 @@ struct {
 3. to run stablizer, make with "install" so that configure file is present in the build dir
 4. draw command will draw the stable point with color (255,0,255),unstable points with color (0,255,0)
 
+补充：
 
+关于Product Quantizer原理介绍，请参照我的博客：http://blog.csdn.net/chieryu/article/details/50347735
